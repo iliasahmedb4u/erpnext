@@ -1,12 +1,12 @@
-app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_name = "AiBizzApp ERP"
+app_title = "AiBizzApp ERP"
+app_publisher = "Kenz Innovations"
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
-app_color = "#e74c3c"
-app_email = "info@erpnext.com"
+app_color = "#3B90CC"
+app_email = "info@aibizzapp.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+source_link = "https://github.com/iliasahmedb4u/erpnext"
 app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 required_apps = ["payments"]
 
@@ -437,8 +437,8 @@ email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://erpnext.com?source=via_email_footer" target="_blank">
-			ERPNext
+		<a class="text-muted" href="https://aibizzapp.com?source=via_email_footer" target="_blank">
+			AiBizzApp ERP
 		</a>
 	</span>
 """
