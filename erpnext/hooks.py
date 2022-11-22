@@ -1,8 +1,8 @@
 from frappe import _
 
-app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_name = "AibizzApp"
+app_title = "Aibizz App"
+app_publisher = "Kenz Innovations"
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
