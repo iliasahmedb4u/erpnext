@@ -8,7 +8,7 @@
  "hide_custom": 0,
  "icon": "integration",
  "idx": 0,
- "label": "ERPNext Integrations",
+ "label": "AiBizzApp Integrations",
  "links": [
   {
    "hidden": 0,
@@ -101,5 +101,5 @@
  "roles": [],
  "sequence_id": 10.0,
  "shortcuts": [],
- "title": "ERPNext Integrations"
+ "title": "AiBizzApp Integrations"
 }
